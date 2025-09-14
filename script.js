@@ -1,0 +1,1 @@
+console.log("Blockbasics site loaded");
